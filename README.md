@@ -1,7 +1,7 @@
 # IBM final project "Emotion Detection application":
 
    ## 1- Introduction
-   This project is the final project for the IBM course "Developing AI Applications with Python and Flask". For more information about the course refer to this link [here](https://www.coursera.org/programs/upwardly-global-on-coursera-tjstd/learn/python-project-for-ai-application-development?specialization=ibm-generative-ai-engineering).
+   This project is the final project for the IBM course "Developing AI Applications with Python and Flask". For more information about the course please refer to this link ([here](https://www.coursera.org/programs/upwardly-global-on-coursera-tjstd/learn/python-project-for-ai-application-development?specialization=ibm-generative-ai-engineering)).
    In this project, the embeddable Watson AI libraries have been used to create an emotion detection application.
    Emotion detection is the concept of sentiment analysis by extracting the emotions, like joy, sadness, anger, and so on, from statements. This makes emotion detection a very            important branch of study and businesses use such systems widely for their AI based recommendation systems, automated chat bots, and so on.
 
@@ -35,7 +35,7 @@
   <img width="730" height="218" alt="5b_unit_testing_result" src="https://github.com/user-attachments/assets/d11bbe2c-b09c-4c40-b2ff-d16764253bac" />
 
 
-  ## 4- Web deployment of the application using Flask with error handling
+  ## 4- Web deployment of the application using Flask 
 
    ### 4-1- The code to deploy the application on the web
    
@@ -53,12 +53,10 @@
 <img width="761" height="735" alt="Final output in Flask" src="https://github.com/user-attachments/assets/22593aee-daa9-48ad-863f-056bf9174fcd" />
 
 
-   ### 4-3- The output of the deployed app with error handling when there is no input
+   
    
 
      
-<img width="764" height="735" alt="output with error" src="https://github.com/user-attachments/assets/ce30bf3e-ae2b-493a-9320-9fb7f53bc93c" />
-
 
      
      
